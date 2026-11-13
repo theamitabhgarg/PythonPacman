@@ -12,7 +12,7 @@ A classic, retro arcade-style **Pacman** implementation built entirely in Python
 
 ---
 
-## 📸 Gameplay Screenshot
+## Gameplay Screenshot
 ![Python Pacman Gameplay](pacmanlvl1.jpg) 
 
 ## Getting Started
